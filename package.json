@@ -1,0 +1,18 @@
+{
+  "name": "placementsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rbxts/compiler-types": "^1.2.9-types.0",
+    "@rbxts/types": "^1.0.568",
+    "typescript": "^4.5.4"
+  }
+}
